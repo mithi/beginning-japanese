@@ -9,10 +9,10 @@
 
 **TLDR**
 - [Google Drive](https://drive.google.com/drive/folders/1XMS1ZgLjqLESuQkls00VYPepVT4Kfkya)
-- Main Anki Decks for Vocabulary and Kanji: [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases), [RTK 450](https://ankiweb.net/shared/info/1843881818), [Japanese Like A Breeze](https://www.japanese-like-a-breeze.com/all-decks/)
-- Do Kana Quizzes, there are many mobile phone apps, websites for this
 - Main Free Grammar Resource: [Cure Dolly](https://kellenok.github.io/cure-script/)
-- Immersion thru Netflix, Japanese songs, Entertaining Japanese Youtube videos
+- Main Anki Decks for Vocabulary and Kanji: [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases), [RTK 450](https://ankiweb.net/shared/info/1843881818), [Japanese Like A Breeze](https://www.japanese-like-a-breeze.com/all-decks/)
+- Memorize kana and practice writing. Do Kana Quizzes, there are many mobile phone apps, websites for this
+- Immersion thru Netflix, Japanese songs, Entertaining Japanese Youtube videos. Talk to people. 
    
 ## Grammar 
 
