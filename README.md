@@ -8,16 +8,17 @@
 6. Miscellaneous
 
 **TLDR**
-- [Google Drive](https://drive.google.com/drive/folders/1XMS1ZgLjqLESuQkls00VYPepVT4Kfkya)
-- Main Free Grammar Resource: [Cure Dolly](https://kellenok.github.io/cure-script/)
-- Main Anki Decks for Vocabulary and Kanji: [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases), [RTK 450](https://ankiweb.net/shared/info/1843881818), [Japanese Like A Breeze](https://www.japanese-like-a-breeze.com/all-decks/)
-- Memorize kana and practice writing them. Do Kana Quizzes with web apps.
-- The best way to learn japanese is to consume content you are actually interested in. Immersion thru Netflix, Japanese songs, Entertaining Japanese Youtube videos. Talk to native japanese people. 
+1. Grammar: [Cure Dolly](https://kellenok.github.io/cure-script/)
+2. Anki Decks Vocabulary/Kanji: [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases), [RTK 450 with Stories](https://ankiweb.net/shared/info/1843881818) [Link](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ), [Japanese Like A Breeze](https://www.japanese-like-a-breeze.com/all-decks/)
+3. [Memorize kana and practice writing them](https://www.tofugu.com/japanese/best-hiragana-and-katakana-learning-resources/). Do [Kana Quizzes](https://gohoneko.neocities.org/learn/kana).
+4. The best way to learn japanese is to consume content you are actually interested in. Immersion thru Netflix, Japanese songs, Entertaining Japanese Youtube videos. Talk to native japanese people.
+5. [Other Useful Resources](https://drive.google.com/drive/folders/1jJB7pgCCIWpq6uvBGbToIhcOgsvtBnM3?usp=drive_link)
+
    
 ## Grammar 
 
 **Main Resources**
-1. Cure Dolly's Organic Japanese - [Youtube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (Watch until atleast until lesson 39), [Transcript](https://kellenok.github.io/cure-script/)
+1. Cure Dolly's Organic Japanese - [Youtube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (Watch until at least lesson 39), [Transcript](https://kellenok.github.io/cure-script/)
 2. [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 -  Two versions of the book, one Romaji Edition, one Kana + Kanji Edition
 
 **Supplementary Resources**
@@ -48,7 +49,7 @@ Eventually, create your own deck as you encounter words.
 
 **Main Resource**
 
-- Anki Deck: [Remembering the Kanji 450](https://drive.google.com/drive/folders/1XMS1ZgLjqLESuQkls00VYPepVT4Kfkya?usp=drive_link)
+- Anki Deck: [Remembering the Kanji 450](https://drive.google.com/drive/folders/1XMS1ZgLjqLESuQkls00VYPepVT4Kfkya?usp=drive_link), [Link](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)
 
 > From [Reddit](https://www.reddit.com/r/LearnJapanese/comments/10k9zcn/switch_from_rrtk_450_deck_to_rtk_and_rrtk_2k_deck/): "I personally did the 1250-something RRTK deck and I regret doing more than 400-600-ish. I did have fun doing it, but I (looking at my stats) only encountered the later kanji when I already knew around 4000 words. The word / kanji frequency isn't really worth it in my opinion", "I second this. I did around 1000, and really regret not stopping at around 300. I'd say finish your 450 from your current deck and then from here just learn the first 200 most common words (with kanji and pronunciation), then start mining vocabulary from immersion."
 
@@ -91,7 +92,3 @@ Eventually, create your own deck as you encounter words.
 - Unlocking Japanese: Making Japanese as Simple as it Really Is, By Cure Dolly
 - Japanese Sentence Patterns for Effective Communication: A Self-Study Guide, By Taeko Kamiya
 - 2000 Most Common Japanese Words in Context: Get Fluent & Increase Your Japanese Vocabulary with 2000 Japanese Phrases (Japanese Language Lessons), by Lingo mastery
-
-
-
-
