@@ -7,6 +7,12 @@
 5. Immersion
 6. Miscellaneous
 
+**TLDR**
+- [Google Drive](https://drive.google.com/drive/folders/1XMS1ZgLjqLESuQkls00VYPepVT4Kfkya)
+- Main Anki Decks for Vocabulary and Kanji: [Kaishi 1.5k v2](https://github.com/donkuri/Kaishi/releases), [RTK 450](https://ankiweb.net/shared/info/1843881818), [Japanese Like A Breeze](https://www.japanese-like-a-breeze.com/all-decks/)
+- Main Free Grammar Resource: [Cure Dolly](https://kellenok.github.io/cure-script/)
+- Immersion thru Netflix and Japanese songs
+   
 ## Grammar 
 
 **Main Resources**
@@ -19,6 +25,7 @@
 2. [An introduction to Japanese Syntax, Grammar & Language by Michiel "Pomax" Kamermans](https://pomax.github.io/nrGrammar/)
 3. [Marshall's Site Learn Japanese Step by Step](https://marshallyin.com/course/)
 4. [IMABI 今日 Guided Japanese Mastery](https://imabi.org/)
+5. [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
 
 ### Cure Dolly's Organic Japanese 
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
@@ -28,21 +35,22 @@
 ### 80-20 Japanese by Richard Webb
 - Two versions of the book, one Romaji Edition, one Kana + Kanji Edition [Download](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 
 
-### Hiragana / Katakana 
+## Hiragana / Katakana 
 1. [Human Japanese](https://www.humanjapanese.com/human-japanese) 💰 - Introduction to characters as well as how to pronounce them 
 2. Trace Sheets PDFs to print and [Tofugu](https://www.tofugu.com/) books [Download](https://drive.google.com/drive/folders/1ruMhNkd7wQY-vlzNGLI6DY_aYcyGuovm?usp=drive_link)
 3. [Learn ALL Kana: Hiragana + Katakana in 2 Hours - How to Write and Read Japanese](https://www.youtube.com/watch?v=_wZHqOghvSs) from Japanese 101.com (Youtube)
 4. Practice Kana with Quizzes
-   - [Go Neko's Grinding Game](https://gohoneko.neocities.org/learn/kana), [Kana Pro](https://kana.pro/), [Tofugu Kana Quiz](https://kana-quiz.tofugu.com/)
+   - [Gohoneko Kana Grinding Game](https://gohoneko.neocities.org/learn/kana), [Kana Pro](https://kana.pro/), [Tofugu Kana Quiz](https://kana-quiz.tofugu.com/)
    - There are also many Kana Quiz apps for your mobile phone
 
-### Vocabulary 
+## Vocabulary 
 
 1. Anki Deck: [Japanese course based on Tae Kim's grammar guide & anime version 14](https://ankiweb.net/shared/info/911122782) by [Japanese Like A Breeze](https://www.japanese-like-a-breeze.com/guide-for-beginners/). About 1000 words. Follow instructions in the official website to install the add-on.
 2. Anki Deck: [Kaishi 1.5k v2.0](https://github.com/donkuri/Kaishi/releases) May 21, 2024.
 3. Online Dictionary: [Jisho](https://jisho.org/)
 
 Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all new cards after review. 
+Eventually, create your own deck as you encounter words. 
 
 ## Kanji 
 
@@ -53,9 +61,9 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 
 **Supplementary Resource**
 1. (PDF) Smart Kanji Book
-2. (PDF) The Kodansha Kanji Learner's Courses: A Step-by-Step Guide to Mastering 2300 Characters Andrew Scott Conning
+2. (PDF) The Kodansha Kanji Learner's Courses: A Step-by-Step Guide to Mastering 2300 Characters by: Andrew Scott Conning
 3. (PDF) Remembering the Kanji vol. I James W. Heisig
-4. [Hochahn RTK](https://hochanh.github.io/rtk/) Ability to search Kanji's easily
+4. [Hochahn RTK](https://hochanh.github.io/rtk/) - Database to search common Kanji's easily
 
 [Download Kanji PDFs](https://drive.google.com/file/d/1WcaG0RFcMljx6NVGXW4BYwwH2xA5g18X/view?usp=drive_link)
 
@@ -63,5 +71,33 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 
 ## Immersion
 
+- Detailed Guide to Immersion: [Learn Japanese dot Moe](https://learnjapanese.moe/guide/#choosing-immersion-content)
+- The best way to learn japanese is to consume content you are actually interested in. It's going to be very difficult in the beginning but start from Day 1.
+- Use Netflix. With Japanese Subtitles on or Japanese Dub turned on. Watch some of my favorite movies in Japanese dub.
+- Rewatch Ghibli Movies
+- I love songs and analysing their lyrics. Study japanese lyrics of songs that I like. Try to translate japanese songs to my native language.
+- [Some recommendations from Donkuri](https://donkuri.github.io/learn-japanese/recs/).
 
-## Other Resources
+
+## Miscellaneous 
+
+**Websites**
+
+- Reddit [r/learnJapanese](https://www.reddit.com/r/LearnJapanese)
+- [`yudataguy/Awesome-Japanese`](https://github.com/yudataguy/Awesome-Japanese)
+
+**Physical Books I've borrowed**
+- Genki I: An Integrated Course In Elementary Japanese
+- A Dictionary of Basic Japanese Grammar by Seiichi Makino and Michio Tsutsui
+- Japanese the Manga Way: An Illustrated Guide to Grammar & Structure by Wayne P. Lammers
+
+**Interesting Physical Books I came across**
+
+- Making Sense of Japanese: What the Textbooks Don't Tell You, By Jay Rubin
+- Unlocking Japanese: Making Japanese as Simple as it Really Is, By Cure Dolly
+- Japanese Sentence Patterns for Effective Communication: A Self-Study Guide, By Taeko Kamiya
+- 2000 Most Common Japanese Words in Context: Get Fluent & Increase Your Japanese Vocabulary with 2000 Japanese Phrases (Japanese Language Lessons), by Lingo mastery
+
+
+
+
