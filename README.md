@@ -74,7 +74,7 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 - Consume content made by Native Japanese Speakers for Native Japanese Speakers
 - The best way to learn japanese is to consume content you are actually interested in. It's going to be very difficult in the beginning but start from Day 1.
 - I love songs and analysing their lyrics. Study japanese lyrics of songs that I like. Try to translate japanese songs to my native language.
-- More Examples: Use Netflix to rewatch shows that you love with Japanese Subtitles on or Japanese Dub turned on. Watch anime, japanese movies like those from Hayao Miyazaki. Watch japanese Youtubers. Also, make friends and conversate with native japanese people with the same interests as you, there are many communities online to help you with this.
+- More Examples: Use Netflix to rewatch shows that you love with Japanese Subtitles on or Japanese Dub turned on. Watch anime, japanese movies like those from Hayao Miyazaki. Watch japanese Youtubers
 - Also, make friends and conversate with native japanese people with the same interests as you, there are many communities online (Discord) to help you with this.
 - [Some recommendations by Donkuri](https://donkuri.github.io/learn-japanese/recs/).
 
