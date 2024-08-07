@@ -32,6 +32,7 @@
 4. [IMABI 今日 Guided Japanese Mastery](https://imabi.org/)
 5. [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
 6. [Visualizing Japanese Grammar by Shoko Hamano](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
+7. [Learn Japanese Adventure](https://www.learn-japanese-adventure.com/learn-japanese-online.html)
 
 ## ✨ Vocabulary 
 
@@ -75,7 +76,7 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 - I love songs and analysing their lyrics. Study japanese lyrics of songs that I like. Try to translate japanese songs to my native language.
 - More Examples: Use Netflix to rewatch shows that you love with Japanese Subtitles on or Japanese Dub turned on. Watch anime, japanese movies like those from Hayao Miyazaki. Watch japanese Youtubers. Also, make friends and conversate with native japanese people with the same interests as you, there are many communities online to help you with this.
 - Also, make friends and conversate with native japanese people with the same interests as you, there are many communities online (Discord) to help you with this.
-- [Some recommendations from Donkuri](https://donkuri.github.io/learn-japanese/recs/).
+- [Some recommendations by Donkuri](https://donkuri.github.io/learn-japanese/recs/).
 
 ## ✨ Miscellaneous 
 
