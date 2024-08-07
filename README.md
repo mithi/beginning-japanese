@@ -63,7 +63,7 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 3. 📖 Remembering the Kanji vol. I by James W. Heisig
 4. [Hochahn RTK](https://hochanh.github.io/rtk/) - Database to easily search common Kanji
 
-[Download Kanji Books (PDFs)](https://drive.google.com/file/d/1WcaG0RFcMljx6NVGXW4BYwwH2xA5g18X/view?usp=drive_link)
+[Download Kanji Books (PDFs)](https://drive.google.com/drive/folders/1qkbOWIIlUOcMVgMrBAT5gTszCC8VsKht?usp=drive_link)
 
 > Smart Kanji Book is a kanji ebook with Remembering-the-Kanji-ish stories but featuring only 734 kanji that make up over 87% of Wikipedia AND vocabulary with kanji you know.
 
