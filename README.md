@@ -4,9 +4,9 @@
 
 📚 **TLDR**
 1. Grammar: [Organic Japanese with Cure Dolly](https://kellenok.github.io/cure-script/) (📺 [Videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)). [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 📖
-2. 📇 Anki Decks for Vocabulary/Kanji: [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases). [RTK 450 with Stories](https://ankiweb.net/shared/info/1843881818) ([Alternative Link](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)). [Japanese Like A Breeze](https://www.japanese-like-a-breeze.com/all-decks/). Also, build your own deck as you encounter new words through immersion.
-3. [Memorize Kana and practice writing / reading them](https://www.tofugu.com/japanese/best-hiragana-and-katakana-learning-resources/). Quiz yourself: [Gohoneko Kana Quiz](https://gohoneko.neocities.org/learn/kana), [Practice Japanese Website](https://practice-japanese.com/).
-4. Immersion ([The Moe Way](https://learnjapanese.moe/guide/#choosing-immersion-content)). The best way to learn japanese is to consume content (made by Native Japanese Speakers for Native Japanese Speakers) that you are actually interested in. Examples: Netflix shows in japanese dub / subtitles, Japanese songs, Japanese youtube channels etc. Also, make friends and conversate with native japanese people with the same interests as you, there are many communities online (Discord) to help you with this.
+2. 📇 Vocabulary/Kanji Anki Decks: [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases). [RTK 450 with Stories](https://ankiweb.net/shared/info/1843881818) ([Alternative Link](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)). [Japanese Like A Breeze](https://www.japanese-like-a-breeze.com/all-decks/). 
+3. [Memorize/Practice Reading Kana](https://www.tofugu.com/japanese/best-hiragana-and-katakana-learning-resources/). [Gohoneko Kana Quiz](https://gohoneko.neocities.org/learn/kana), [Practice Japanese Website](https://practice-japanese.com/).
+4. Immersion [The Moe Way](https://learnjapanese.moe/guide/#choosing-immersion-content)
 5. [Selected Useful Resources](https://drive.google.com/drive/folders/1jJB7pgCCIWpq6uvBGbToIhcOgsvtBnM3?usp=drive_link)
 
 
@@ -24,7 +24,7 @@
 1. 📺 Organic Japanese With Cure Dolly - [Youtube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (Watch until at least lesson 39), [Transcribed Online Book](https://kellenok.github.io/cure-script/)
 2. [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 -  Two versions of the book, one Romaji Edition, one Kana + Kanji Edition
 3. 📺 [Game Gengo](https://www.youtube.com/c/GameGengo) a YouTube channel dedicated to helping you learn and improve your Japanese/translation ability in the most enjoyable way possible, through Video Games!
-4. 📺 [Japanese Grammar concepts the textbooks don't teach you - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV)
+4. 📺 [Japanese Grammar concepts the textbooks don't teach you - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV), [Japanese Conjugation Quiz](https://wkdonc.github.io/conjugation/drill.html)
 
 📚 **Supplementary Resources**
 
@@ -87,12 +87,12 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 - [`yudataguy/Awesome-Japanese`](https://github.com/yudataguy/Awesome-Japanese)
 - [Duolingo](https://www.duolingo.com/)
 
-📚 **Physical Books I've Borrowed 💰**
+📚 **Physical Books I've Borrowed** 💰
 - 📖 Genki I: An Integrated Course In Elementary Japanese
 - 📖 A Dictionary of Basic Japanese Grammar by Seiichi Makino and Michio Tsutsui
 - 📖 Japanese the Manga Way: An Illustrated Guide to Grammar & Structure by Wayne P. Lammers
 
-📚 **Educational Books That Might be Worth Checking Out Eventually 💰**
+📚 **Educational Books That Might be Worth Checking Out Eventually** 💰
 
 - 📖 Making Sense of Japanese: What the Textbooks Don't Tell You, By Jay Rubin
 - 📖 Unlocking Japanese: Making Japanese as Simple as it Really Is, By Cure Dolly
