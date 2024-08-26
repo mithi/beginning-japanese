@@ -23,6 +23,8 @@
 📚 **Main Resources** 
 1. 📺 Organic Japanese With Cure Dolly - [Youtube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (Watch until at least lesson 39), [Transcribed Online Book](https://kellenok.github.io/cure-script/)
 2. [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 -  Two versions of the book, one Romaji Edition, one Kana + Kanji Edition
+3. 📺 [Game Gengo](https://www.youtube.com/c/GameGengo) a YouTube channel dedicated to helping you learn and improve your Japanese/translation ability in the most enjoyable way possible, through Video Games!
+4. 📺 [Japanese Grammar concepts the textbooks don't teach you - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV)
 
 📚 **Supplementary Resources**
 
@@ -32,7 +34,6 @@
 4. [IMABI 今日 Guided Japanese Mastery](https://imabi.org/)
 5. [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
 6. [Visualizing Japanese Grammar by Shoko Hamano](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
-7. [Learn Japanese Adventure](https://www.learn-japanese-adventure.com/learn-japanese-online.html)
 
 ## ✨ Vocabulary 
 
@@ -84,7 +85,7 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 
 - Reddit [r/learnJapanese](https://www.reddit.com/r/LearnJapanese)
 - [`yudataguy/Awesome-Japanese`](https://github.com/yudataguy/Awesome-Japanese)
-- 📺 [Game Gengo](https://www.youtube.com/c/GameGengo) a YouTube channel dedicated to helping you learn and improve your Japanese/translation ability in the most enjoyable way possible, through Video Games!
+- [Duolingo](https://www.duolingo.com/)
 
 📚 **Physical Books I've Borrowed 💰**
 - 📖 Genki I: An Integrated Course In Elementary Japanese
