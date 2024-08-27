@@ -52,7 +52,7 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 3. 📺 (Youtube Video) [Learn ALL Kana: Hiragana + Katakana in 2 Hours - How to Write and Read Japanese](https://www.youtube.com/watch?v=_wZHqOghvSs) 
 4. Practice Kana with Quizzes. [Gohoneko Kana Grinding Game](https://gohoneko.neocities.org/learn/kana), [Kana Pro](https://kana.pro/), [Tofugu Kana Quiz](https://kana-quiz.tofugu.com/), [Practice Japanese](https://practice-japanese.com/). There are also many Kana Quiz apps for your mobile phone.
 5. [Duolingo](https://www.duolingo.com/)
-6. 
+   
 ## ✨ Kanji 
 
 📚 **Main Resource**
