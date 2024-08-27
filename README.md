@@ -5,8 +5,8 @@
 📚 **TLDR**
 1. Grammar: [Organic Japanese with Cure Dolly](https://kellenok.github.io/cure-script/) (📺 [Videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)). [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 📖
 2. 📇 Vocabulary/Kanji Anki Decks: [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases). [RTK 450 with Stories](https://ankiweb.net/shared/info/1843881818) ([Alternative Link](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)). [Japanese Like A Breeze](https://www.japanese-like-a-breeze.com/all-decks/). 
-3. [Memorize/Practice Reading Kana](https://www.tofugu.com/japanese/best-hiragana-and-katakana-learning-resources/). [Gohoneko Kana Quiz](https://gohoneko.neocities.org/learn/kana), [Practice Japanese Website](https://practice-japanese.com/).
-4. Immersion [The Moe Way](https://learnjapanese.moe/guide/#choosing-immersion-content)
+3. [Memorize/Practice Reading Kana](https://www.tofugu.com/japanese/best-hiragana-and-katakana-learning-resources/). [Practice Japanese Website](https://practice-japanese.com/).
+4. Immersion [The Moe Way](https://learnjapanese.moe/guide/#choosing-immersion-content), [Donkuri](https://donkuri.github.io/learn-japanese/immersion/)
 5. [Selected Useful Resources](https://drive.google.com/drive/folders/1jJB7pgCCIWpq6uvBGbToIhcOgsvtBnM3?usp=drive_link)
 
 
@@ -34,12 +34,13 @@
 4. [IMABI 今日 Guided Japanese Mastery](https://imabi.org/)
 5. [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
 6. [Visualizing Japanese Grammar by Shoko Hamano](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
+7. [Boirodaisuki: The grammar guide that nobody wanted and nobody asked for](https://boirodaisuki.neocities.org/)
 
 ## ✨ Vocabulary 
 
 1. 📇 (Anki Deck) [Japanese course based on Tae Kim's grammar guide & anime version 14](https://ankiweb.net/shared/info/911122782) by [Japanese Like A Breeze](https://www.japanese-like-a-breeze.com/guide-for-beginners/). About 1000 words. Follow instructions in the official website to install the add-on.
 2. 📇 (Anki Deck) [Kaishi 1.5k v2.0](https://github.com/donkuri/Kaishi/releases)
-3. Create your own deck as you encounter words through immersion.
+3. Mining: Create your own deck as you encounter words through immersion .
 4. Online Dictionary: [Jisho](https://jisho.org/)
 
 Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all new cards after review. 
@@ -50,7 +51,8 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 2. [Trace Sheets to practice writing Kana](https://drive.google.com/drive/folders/1ruMhNkd7wQY-vlzNGLI6DY_aYcyGuovm?usp=drive_link) and [Tofugu](https://www.tofugu.com/) mnemonics guide.
 3. 📺 (Youtube Video) [Learn ALL Kana: Hiragana + Katakana in 2 Hours - How to Write and Read Japanese](https://www.youtube.com/watch?v=_wZHqOghvSs) 
 4. Practice Kana with Quizzes. [Gohoneko Kana Grinding Game](https://gohoneko.neocities.org/learn/kana), [Kana Pro](https://kana.pro/), [Tofugu Kana Quiz](https://kana-quiz.tofugu.com/), [Practice Japanese](https://practice-japanese.com/). There are also many Kana Quiz apps for your mobile phone.
- 
+5. [Duolingo](https://www.duolingo.com/)
+6. 
 ## ✨ Kanji 
 
 📚 **Main Resource**
@@ -71,13 +73,13 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 
 ## ✨ Immersion
 
-- Detailed Guide to Immersion: [The Moe Way](https://learnjapanese.moe/guide/#choosing-immersion-content)
+- [The Moe Way](https://learnjapanese.moe/guide/#choosing-immersion-content)
+- [Some recommendations by Donkuri](https://donkuri.github.io/learn-japanese/recs/).
 - Consume content made by Native Japanese Speakers for Native Japanese Speakers
 - The best way to learn japanese is to consume content you are actually interested in. It's going to be very difficult in the beginning but start from Day 1.
 - I love songs and analysing their lyrics. Study japanese lyrics of songs that I like. Try to translate japanese songs to my native language.
 - More Examples: Use Netflix to rewatch shows that you love with Japanese Subtitles on or Japanese Dub turned on. Watch anime, japanese movies like those from Hayao Miyazaki. Watch japanese Youtubers
 - Also, make friends and conversate with native japanese people with the same interests as you, there are many communities online (Discord) to help you with this.
-- [Some recommendations by Donkuri](https://donkuri.github.io/learn-japanese/recs/).
 
 ## ✨ Miscellaneous 
 
@@ -85,7 +87,6 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 
 - Reddit [r/learnJapanese](https://www.reddit.com/r/LearnJapanese)
 - [`yudataguy/Awesome-Japanese`](https://github.com/yudataguy/Awesome-Japanese)
-- [Duolingo](https://www.duolingo.com/)
 
 📚 **Physical Books I've Borrowed** 💰
 - 📖 Genki I: An Integrated Course In Elementary Japanese
