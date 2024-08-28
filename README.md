@@ -4,9 +4,9 @@
 
 📚 **TLDR**
 1. Grammar: [Organic Japanese with Cure Dolly](https://kellenok.github.io/cure-script/) (📺 [Videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)). [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 📖
-2. 📇 Vocabulary/Kanji Anki Decks: [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases). [RTK 450 with Stories](https://ankiweb.net/shared/info/1843881818) ([Alternative Link](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)). [Japanese Like A Breeze](https://www.japanese-like-a-breeze.com/all-decks/). 
-3. [Memorize/Practice Reading Kana](https://www.tofugu.com/japanese/best-hiragana-and-katakana-learning-resources/). [Practice Japanese Website](https://practice-japanese.com/).
-4. Immersion [The Moe Way](https://learnjapanese.moe/guide/#choosing-immersion-content), [Donkuri](https://donkuri.github.io/learn-japanese/immersion/)
+2. 📇 Space Repetition Flashcards like Anki, [Migaku 💰 📖](https://study.migaku.com/)
+3. [Memorize/Practice Reading Kana](https://www.tofugu.com/japanese/best-hiragana-and-katakana-learning-resources/). [Memorize/Practice Reading Kana](https://practice-japanese.com/). [Japanese Verb Conjugator](https://www.japaneseverbconjugator.com/)
+4. Immersion [The Moe Way: Why many people "fail" to learn Japanese](https://learnjapanese.moe/guide/#choosing-immersion-content), [Migaku 💰 📖](https://study.migaku.com/)
 5. [Selected Useful Resources](https://drive.google.com/drive/folders/1jJB7pgCCIWpq6uvBGbToIhcOgsvtBnM3?usp=drive_link)
 
 
@@ -21,12 +21,17 @@
 ## ✨ Grammar 
 
 📚 **Main Resources** 
-1. 📺 Organic Japanese With Cure Dolly - [Youtube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (Watch until at least lesson 39), [Transcribed Online Book](https://kellenok.github.io/cure-script/)
-2. [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 -  Two versions of the book, one Romaji Edition, one Kana + Kanji Edition
-3. 📺 [Game Gengo](https://www.youtube.com/c/GameGengo) a YouTube channel dedicated to helping you learn and improve your Japanese/translation ability in the most enjoyable way possible, through Video Games!
-4. 📺 [Japanese Grammar concepts the textbooks don't teach you - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV), [Japanese Conjugation Quiz](https://wkdonc.github.io/conjugation/drill.html)
+1. [Migaku 💰 📖](https://study.migaku.com/)
+2. [Selected Useful Resources](https://drive.google.com/drive/folders/1jJB7pgCCIWpq6uvBGbToIhcOgsvtBnM3?usp=drive_link)
+3.  📺 Organic Japanese With Cure Dolly - [Youtube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (Watch until at least lesson 39), [Transcribed Online Book](https://kellenok.github.io/cure-script/)
+4. [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 -  Two versions of the book, one Romaji Edition, one Kana + Kanji Edition
 
-📚 **Supplementary Resources**
+📚 **Primary Supplementary Resources**
+
+1. 📺 [Game Gengo](https://www.youtube.com/c/GameGengo) a YouTube channel dedicated to helping you learn and improve your Japanese/translation ability in the most enjoyable way possible, through Video Games!
+2. 📺 [Japanese Grammar concepts the textbooks don't teach you - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV), [Japanese Conjugation Quiz](https://wkdonc.github.io/conjugation/drill.html)
+
+📚 **Secondary Supplementary Resources**
 
 1. [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/complete/)
 2. [An introduction to Japanese Syntax, Grammar & Language by Michiel "Pomax" Kamermans](https://pomax.github.io/nrGrammar/)
@@ -40,8 +45,7 @@
 
 1. 📇 (Anki Deck) [Japanese course based on Tae Kim's grammar guide & anime version 14](https://ankiweb.net/shared/info/911122782) by [Japanese Like A Breeze](https://www.japanese-like-a-breeze.com/guide-for-beginners/). About 1000 words. Follow instructions in the official website to install the add-on.
 2. 📇 (Anki Deck) [Kaishi 1.5k v2.0](https://github.com/donkuri/Kaishi/releases)
-3. Mining: Create your own deck as you encounter words through immersion .
-4. Online Dictionary: [Jisho](https://jisho.org/)
+3. Japanese Dictionary
 
 Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all new cards after review. 
 
@@ -75,6 +79,7 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 
 - [The Moe Way](https://learnjapanese.moe/guide/#choosing-immersion-content)
 - [Some recommendations by Donkuri](https://donkuri.github.io/learn-japanese/recs/).
+- [Migaku 💰 📖](https://study.migaku.com/)
 - Consume content made by Native Japanese Speakers for Native Japanese Speakers
 - The best way to learn japanese is to consume content you are actually interested in. It's going to be very difficult in the beginning but start from Day 1.
 - I love songs and analysing their lyrics. Study japanese lyrics of songs that I like. Try to translate japanese songs to my native language.
