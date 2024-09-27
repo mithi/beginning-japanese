@@ -1,6 +1,18 @@
-# Beginning Japanese
+# Beginning Japanese [V1] - Reduced Version
 
-> A curated list of Japanese language learning resources.
+> After my exploratory stage and know a little japanese, I have narrowed down the resources I will use for studying. I will still look at V0 resources from time to time but 80% of my time I will just use these resources.
+
+1. [Organic Japanese with Cure Dolly](https://kellenok.github.io/cure-script/) (📺 [Videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)), 📺 [Japanese Grammar concepts the textbooks don't teach you - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV)
+2. [Shirabe Jisho 4+ Offline dictionary and more Blazej Stanek](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
+3. [jlptsensei.com](https://jlptsensei.com/)
+4. [Hochahn RTK](https://hochanh.github.io/rtk/) and [Wkdonc source code of japanese conjugation drill](https://github.com/wkdonc/wkdonc.github.io/)
+5. [Migaku 💰 📖](https://study.migaku.com/) for sentence mining from Netflix, Disney Plus and Youtube 
+6. For added sentence translation exercises and review,  we can use (1) [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 📖, and (2) [Duolingo](https://www.duolingo.com/) - but these are only for review, they should only be supplementary
+7. I'll be building a small web app to track my progress, and I'll also setup a humble blog to discuss my thoughts on Japanese grammar
+
+# Beginning Japanese [V0] - Exploratory Version
+
+> These were my main resources when I was starting Japanese from zero. Now that I know I little japanese I have narrowed down my main resources to a significantly smaller list see V1 (Reduced Version on top of this document)
 
 📚 **TLDR**
 1. Grammar: [Organic Japanese with Cure Dolly](https://kellenok.github.io/cure-script/) (📺 [Videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)). [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 📖
@@ -8,7 +20,6 @@
 3. [Memorize/Practice Reading Kana](https://www.tofugu.com/japanese/best-hiragana-and-katakana-learning-resources/). [Memorize/Practice Reading Kana](https://practice-japanese.com/). [Japanese Verb Conjugator](https://www.japaneseverbconjugator.com/)
 4. Immersion [The Moe Way: Why many people "fail" to learn Japanese](https://learnjapanese.moe/guide/#choosing-immersion-content), [Migaku 💰 📖](https://study.migaku.com/)
 5. [Selected Useful Resources](https://drive.google.com/drive/folders/1jJB7pgCCIWpq6uvBGbToIhcOgsvtBnM3?usp=drive_link)
-
 
 📚 **Table of Contents**
 1. Grammar
@@ -25,21 +36,18 @@
 2. [Selected Useful Resources](https://drive.google.com/drive/folders/1jJB7pgCCIWpq6uvBGbToIhcOgsvtBnM3?usp=drive_link)
 3.  📺 Organic Japanese With Cure Dolly - [Youtube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (Watch until at least lesson 39), [Transcribed Online Book](https://kellenok.github.io/cure-script/)
 4. [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 -  Two versions of the book, one Romaji Edition, one Kana + Kanji Edition
+5. 📺 [Japanese Grammar concepts the textbooks don't teach you - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV), [Japanese Conjugation Quiz](https://wkdonc.github.io/conjugation/drill.html)
 
-📚 **Primary Supplementary Resources**
+📚 **Supplementary Resources**
 
 1. 📺 [Game Gengo](https://www.youtube.com/c/GameGengo) a YouTube channel dedicated to helping you learn and improve your Japanese/translation ability in the most enjoyable way possible, through Video Games!
-2. 📺 [Japanese Grammar concepts the textbooks don't teach you - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV), [Japanese Conjugation Quiz](https://wkdonc.github.io/conjugation/drill.html)
-
-📚 **Secondary Supplementary Resources**
-
-1. [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/complete/)
-2. [An introduction to Japanese Syntax, Grammar & Language by Michiel "Pomax" Kamermans](https://pomax.github.io/nrGrammar/)
-3. [Marshall's Site Learn Japanese Step by Step](https://marshallyin.com/course/)
-4. [IMABI 今日 Guided Japanese Mastery](https://imabi.org/)
-5. [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
-6. [Visualizing Japanese Grammar by Shoko Hamano](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
-7. [Boirodaisuki: The grammar guide that nobody wanted and nobody asked for](https://boirodaisuki.neocities.org/)
+2. [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/complete/)
+3. [An introduction to Japanese Syntax, Grammar & Language by Michiel "Pomax" Kamermans](https://pomax.github.io/nrGrammar/)
+4. [Marshall's Site Learn Japanese Step by Step](https://marshallyin.com/course/)
+5. [IMABI 今日 Guided Japanese Mastery](https://imabi.org/)
+6. [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
+7. [Visualizing Japanese Grammar by Shoko Hamano](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
+8. [Boirodaisuki: The grammar guide that nobody wanted and nobody asked for](https://boirodaisuki.neocities.org/)
 
 ## ✨ Vocabulary 
 
