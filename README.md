@@ -6,9 +6,8 @@
 2. [Shirabe Jisho 4+ Offline dictionary and more Blazej Stanek](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
 3. [jlptsensei.com](https://jlptsensei.com/)
 4. [Hochahn RTK](https://hochanh.github.io/rtk/) and [Wkdonc source code of japanese conjugation drill](https://github.com/wkdonc/wkdonc.github.io/)
-5. [Migaku 💰 📖](https://study.migaku.com/) for sentence mining from Netflix, Disney Plus and Youtube 
-6. For added sentence translation exercises and review, we can use (1) [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 📖
-7. I'll be building a small web app to track my progress, and I'll also setup a humble blog to discuss my thoughts on Japanese grammar
+5. [Migaku 💰 📖](https://study.migaku.com/) for sentence mining from Netflix, Disney Plus and Youtube. For added sentence translation exercises and review, we can use (1) [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 📖
+6. I'll be building a small web app to track my progress, and I'll also setup a humble blog to discuss my thoughts on Japanese grammar
 
 # Beginning Japanese [V0] - Exploratory Version
 
