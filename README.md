@@ -4,10 +4,9 @@
 
 1. [Organic Japanese with Cure Dolly](https://kellenok.github.io/cure-script/) (📺 [Videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)), 📺 [Japanese Grammar concepts the textbooks don't teach you - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV)
 2. [Shirabe Jisho 4+ Offline dictionary and more Blazej Stanek](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
-3. [jlptsensei.com](https://jlptsensei.com/)
-4. [Hochahn RTK](https://hochanh.github.io/rtk/) and [Wkdonc source code of japanese conjugation drill](https://github.com/wkdonc/wkdonc.github.io/)
-5. [Migaku 💰 📖](https://study.migaku.com/) for sentence mining from Netflix, Disney Plus and Youtube. For added sentence translation exercises and review, we can use (1) [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 📖
-6. I'll be building a small web app to track my progress, and I'll also setup a humble blog to discuss my thoughts on Japanese grammar
+3. [Hochahn RTK](https://hochanh.github.io/rtk/) and [Wkdonc source code of japanese conjugation drill](https://github.com/wkdonc/wkdonc.github.io/)
+4. [Migaku 💰 📖](https://study.migaku.com/) for sentence mining from Netflix, Disney Plus and Youtube. For added sentence translation exercises and review, we can use (1) [80/20 Japanese by Richard Webb](https://drive.google.com/drive/folders/1m8CtsyDirLsjoHAhEdBjwrgs9bVgF1ys?usp=drive_link) 💰 📖
+5. I'll be building a small web app to track my progress, and I'll also setup a humble blog to discuss my thoughts on Japanese grammar
 
 # Beginning Japanese [V0] - Exploratory Version
 
@@ -112,3 +111,27 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 - 📖 Unlocking Japanese: Making Japanese as Simple as it Really Is, By Cure Dolly
 - 📖 Japanese Sentence Patterns for Effective Communication: A Self-Study Guide, By Taeko Kamiya
 - 📖 2000 Most Common Japanese Words in Context: Get Fluent & Increase Your Japanese Vocabulary with 2000 Japanese Phrases (Japanese Language Lessons), by Lingo mastery
+
+# Resources For Evaluation 
+
+- https://japbase.neocities.org/#%E3%8A%A5%E3%81%A0%E3%82%89%E3%81%91
+
+- https://jlptgrammarlist.neocities.org/
+
+- https://japanese.meta.stackexchange.com/questions/756/resources-for-learning-japanese/2196#2196
+
+- https://github.com/bibby/conjugator
+
+- https://www.reddit.com/r/LearnJapanese/comments/gowjdw/i_made_a_grammar_list_with_search_feature_to_help/
+
+- https://www.jlpt.jp/e/samples/sample09.html
+
+- https://japanesetest4you.com/ebooks/
+
+- https://www.renshuu.org/index.php?page=main/landing
+
+- https://maggiesensei.com/2009/08/01/96/
+
+- https://gohoneko.neocities.org/, https://kenrick95.github.io/itazuraneko , https://github.com/itazuraneko/itazuraneko, https://djtguide.github.io/index.html
+
+- https://japanesetest4you.com/
