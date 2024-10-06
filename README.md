@@ -112,21 +112,6 @@ Settings: 20 new cards per day. Unlimited Reviews (9999). Review order: Put all 
 - 📖 Japanese Sentence Patterns for Effective Communication: A Self-Study Guide, By Taeko Kamiya
 - 📖 2000 Most Common Japanese Words in Context: Get Fluent & Increase Your Japanese Vocabulary with 2000 Japanese Phrases (Japanese Language Lessons), by Lingo mastery
 
-# Resources For Evaluation 
-
-- https://japbase.neocities.org/#%E3%8A%A5%E3%81%A0%E3%82%89%E3%81%91
-
-- https://jlptgrammarlist.neocities.org/
-
-- https://japanese.meta.stackexchange.com/questions/756/resources-for-learning-japanese/2196#2196
-
-- https://github.com/bibby/conjugator
-
-- https://www.reddit.com/r/LearnJapanese/comments/gowjdw/i_made_a_grammar_list_with_search_feature_to_help/
-
-- https://www.jlpt.jp/e/samples/sample09.html
-
-- https://japanesetest4you.com/ebooks/
 
 - https://www.renshuu.org/index.php?page=main/landing
 
