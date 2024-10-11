@@ -54,3 +54,20 @@ Wikipedia
 - https://gohoneko.neocities.org/, https://kenrick95.github.io/itazuraneko , https://github.com/itazuraneko/itazuraneko, https://djtguide.github.io/index.html
 
 - https://japanesetest4you.com/
+
+- https://www.jlptstudy.net/N5/?vocab-list
+
+- https://jlptgrammarlist.neocities.org/
+- https://bunpro.jp/grammar_points
+  
+## Japanese Word Conjugations
+
+- https://docs.google.com/spreadsheets/d/e/2PACX-1vRLsiQ5bUykGBEupSE6oBM3iRlRWGbye8txo4asQDUbOCBG4AohFrkJzxWLkUTwNP7LQcGmjZamkb5a/pubhtml?gid=809038828&single=true
+
+- https://www.tofugu.com/japanese-grammar/verb-conjugation-groups/
+- https://en.wikipedia.org/wiki/Japanese_conjugation#Potential
+- https://www.japaneseverbconjugator.com/VerbDetails.asp?txtVerb=iku&Go=Conjugate
+- https://www.japanesewithanime.com/2017/07/verbs.html
+- https://github.com/wkdonc/wkdonc.github.io/blob/master/conjugation/rules.js
+- https://ixrec.neocities.org/all-about-particles
+
