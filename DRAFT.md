@@ -59,7 +59,8 @@ Wikipedia
 
 - https://jlptgrammarlist.neocities.org/
 - https://bunpro.jp/grammar_points
-  
+- https://ixrec.neocities.org/all-about-particles
+
 ## Japanese Word Conjugations
 
 - https://docs.google.com/spreadsheets/d/e/2PACX-1vRLsiQ5bUykGBEupSE6oBM3iRlRWGbye8txo4asQDUbOCBG4AohFrkJzxWLkUTwNP7LQcGmjZamkb5a/pubhtml?gid=809038828&single=true
@@ -69,5 +70,6 @@ Wikipedia
 - https://www.japaneseverbconjugator.com/VerbDetails.asp?txtVerb=iku&Go=Conjugate
 - https://www.japanesewithanime.com/2017/07/verbs.html
 - https://github.com/wkdonc/wkdonc.github.io/blob/master/conjugation/rules.js
-- https://ixrec.neocities.org/all-about-particles
+- itsCheif videos
+- cure dolly videos
 
