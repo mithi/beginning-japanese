@@ -1,4 +1,17 @@
 # Resources to Evaluate
+---
+
+- https://www.satorireader.com/articles/spring-episode-1-edition-n
+- https://www.youtube.com/watch?v=mTIWMBfo2o8&list=PLw3Y8B8LnOzKgBzi6ND7syq7EpQqvkn56 Japarrot!- Let's Learn Japanese with Stories
+- https://www.wanikani.com/dashboard
+- https://kanji.garden/learn
+- https://koohi.cafe/
+- https://kanji.koohii.com/
+- https://jpdb.io/
+- Learn Japanese with Children's Books - JapanesePod 101 - https://www.youtube.com/watch?v=pqqaJA93x2s&list=PLPSfPyOOcp3TLsq5J9HYOmjIyVYhsbtSB
+- 
+
+----
 
 
 - https://www.japandict.com/
