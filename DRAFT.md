@@ -1,6 +1,13 @@
 # Resources to Evaluate
 ---
 
+https://www.kaniwani.com/welcome
+https://github.com/open-spaced-repetition/awesome-fsrs
+https://github.com/open-spaced-repetition/py-fsrs
+https://github.com/open-spaced-repetition/py-fsrs/blob/main/ALGORITHM.md
+
+https://japanesetest4you.com/ebooks/
+
 - https://www.satorireader.com/articles/spring-episode-1-edition-n
 - https://www.youtube.com/watch?v=mTIWMBfo2o8&list=PLw3Y8B8LnOzKgBzi6ND7syq7EpQqvkn56 Japarrot!- Let's Learn Japanese with Stories
 - https://www.wanikani.com/dashboard
