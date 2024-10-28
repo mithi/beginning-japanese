@@ -1,6 +1,20 @@
 # Resources to Evaluate
 ---
 
+https://www.tofugu.com/reviews/breaking-into-japanese-literature/
+
+https://www.tofugu.com/reviews/japanese-stories-for-language-learners/
+
+https://drdru.github.io/stories/1_01_food.html
+
+https://github.com/DrDru/emoquizz
+
+https://my.wasabi-jpn.com/magazine/japanese-lessons/fairy-tales-and-short-stories-with-easy-japanese/
+
+https://tadoku.org/japanese/book/44963/#bd-look-inside
+
+https://drive.google.com/drive/folders/1esHK3JHKB7KoB6xTjc7Fvt148a3L1lpl
+
 https://www.kaniwani.com/welcome
 https://github.com/open-spaced-repetition/awesome-fsrs
 https://github.com/open-spaced-repetition/py-fsrs
