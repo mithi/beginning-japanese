@@ -1,6 +1,29 @@
 # Resources to Evaluate
 ---
 
+SEMANTIC PHONETIC COMPOSITION
+
+https://www.kanjialchemy.com/kanji.html
+https://morg.systems/Kanji-with-a-semantic-and-phonetic-component
+
+https://archive.is/f4ww4#selection-421.0-421.8
+
+https://www.reddit.com/r/linguistics/comments/26127x/testing_the_predictive_power_of_phonetic/
+
+https://learnjapaneseonline.info/2016/05/25/the-key-to-kanji-learning/
+
+
+https://thekanjicode.com/what-is-the-best-way-to-learn-the-phonetic-components/
+
+
+https://thekanjicode.com/why-write-on-readings-in-romaji/
+
+https://learnjapaneseonline.info/2014/12/06/the-key-to-japanese-kanji-pronunciation-meet-the-sound-sisterhoods/
+
+https://thekanjicode.com/japanese-phonetic-components/
+
+https://learnjapaneseonline.info/2014/12/06/the-key-to-japanese-kanji-pronunciation-meet-the-sound-sisterhoods/
+
 https://www.tofugu.com/reviews/breaking-into-japanese-literature/
 
 https://www.tofugu.com/reviews/japanese-stories-for-language-learners/
