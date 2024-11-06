@@ -1,5 +1,6 @@
 # Resources to Evaluate
 ---
+https://gokugoku.app/japanese-grammar/kara-japanese-grammar
 
 SEMANTIC PHONETIC COMPOSITION
 
