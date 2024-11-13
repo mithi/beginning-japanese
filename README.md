@@ -1,6 +1,14 @@
-# Beginning Japanese [V1] - Reduced Version
+# Beginning Japanese [V2] - Further Reduced Version
 
-> After my exploratory stage and know a little japanese, I have narrowed down the resources I will use for studying. I will still look at V0 resources from time to time but 80% of my time I will just use these resources.
+> After my exploratory stage and know a little japanese, I have narrowed down the resources I will use for studying. I will still look at V0 and V1 resources from time to time but 80% of my time I will just use these resources.
+
+1. [Organic Japanese with Cure Dolly](https://kellenok.github.io/cure-script/) (📺 [Videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)), 📺 [Japanese Grammar concepts the textbooks don't teach you - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV)
+2. [Bunpro Public Grammar list](https://bunpro.jp/grammar_points) and [Goku Goku](https://gokugoku.app/japanese-grammar) grammar list
+3. [Wani Kani 💰](https://www.wanikani.com/) for Kanji
+4. Eventually Sentence mining on Youtube and Netflix with [Migaku SRS 💰](https://study.migaku.com/), immersing [The Moe Way](https://learnjapanese.moe/guide/#choosing-immersion-content)
+5. Japanese Study Log - Learning in Public
+
+# Beginning Japanese [V1] - Reduced Version
 
 1. [Organic Japanese with Cure Dolly](https://kellenok.github.io/cure-script/) (📺 [Videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)), 📺 [Japanese Grammar concepts the textbooks don't teach you - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV)
 2. [Shirabe Jisho 4+ Offline dictionary and more Blazej Stanek](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
