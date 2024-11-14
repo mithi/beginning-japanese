@@ -2,7 +2,7 @@
 
 > After my exploratory stage and know a little japanese, I have narrowed down the resources I will use for studying. I will still look at V0 and V1 resources from time to time but 80% of my time I will just use these resources.
 
-1. [Organic Japanese with Cure Dolly](https://kellenok.github.io/cure-script/) (📺 [Videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)), 📺 [Japanese Grammar concepts the textbooks don't teach you - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV), [Bunpro Public and Free Grammar list](https://bunpro.jp/grammar_points), [Goku Goku](https://gokugoku.app/japanese-grammar) grammar list, and [tofugu](https://www.tofugu.com/japanese-grammar/)
+1. [Organic Japanese with Cure Dolly](https://kellenok.github.io/cure-script/) (📺 [Videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)), 📺 [Japanese Grammar concepts the textbooks don't teach you - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV), [Bunpro Public and Free Grammar list](https://bunpro.jp/grammar_points), [Goku Goku](https://gokugoku.app/japanese-grammar) grammar list, [JLPT Grammar List cheatsheet](https://jlptgrammarlist.neocities.org/), [tofugu](https://www.tofugu.com/japanese-grammar/)
 2. [Wani Kani 💰](https://www.wanikani.com/) for Kanji
 3. Eventually Sentence mine on Youtube and Netflix with [Migaku SRS 💰](https://study.migaku.com/), immersion [The Moe Way](https://learnjapanese.moe/guide/#choosing-immersion-content)
 5. Japanese Study Log - [Learning in Public](https://www.swyx.io/learn-in-public)
